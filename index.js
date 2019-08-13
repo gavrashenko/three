@@ -1,3 +1,3 @@
-const second = () => 'Hi from the second module';
+const third = () => 'Hi from the third module';
 
-module.exports = second;
+module.exports = third;
